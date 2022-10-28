@@ -71,6 +71,7 @@ LINE1_USADDRESS_LABELS = (
     'StreetNamePreDirectional',
     'StreetNamePostDirectional',
     'StreetNamePreModifier',
+    'StreetNamePostModifier',
     'StreetNamePostType',
     'StreetNamePreType',
     'IntersectionSeparator',
